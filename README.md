@@ -5,8 +5,7 @@ The goal was to go beyond basic EDA — store the data in SQLite, write
 real SQL queries, build interactive Plotly charts, and deploy a 
 professional-looking dashboard on Streamlit.
 
-**Live Demo:** [add your Streamlit URL here]
-
+**Live Demo:** https://sales-dashboard-tvjr2cmpytre23lqvp8nup.streamlit.app
 
 ## What I built
 
